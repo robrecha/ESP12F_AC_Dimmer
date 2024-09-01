@@ -1,3 +1,5 @@
+** Non functional **
+
 Library for Dimming AC and 12V loads with respective ESP12F wireless Dimmer modules
 Created by Rob Recinella: July 28, 2020.
 
